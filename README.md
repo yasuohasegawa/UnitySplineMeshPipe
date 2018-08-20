@@ -1,5 +1,5 @@
 # UnitySplineMeshPipe
-Spline-based mesh generation
+Spline-based mesh generation and sound visualizer sample.
 
 ![Screenshot](screen1.png)
 ![Screenshot](screen2.png)
